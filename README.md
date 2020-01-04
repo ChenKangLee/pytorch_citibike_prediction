@@ -24,11 +24,17 @@ Execution produces intermediate files, which are stored in the path specified by
 ## Requirements & Prerequisites
 
 python 3.6
+
 [pytorch 1.3.1](https://pytorch.org)
+
 [pytorch-geometric](https://github.com/rusty1s/pytorch_geometric)
+
 [geopy](https://pypi.org/project/geopy/)
+
 [Numpy](https://numpy.org)
+
 [Pandas](https://pandas.pydata.org)
+
 [bokeh](https://docs.bokeh.org/en/1.4.0/)
 
 This implemention is meant to be run on powerful machines, and takes large amount memory (20 GB+).
