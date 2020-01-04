@@ -52,5 +52,5 @@ Several data are required to run this implementation.
 
 
 ## References
-[1] Di Chai, Leye Wang, Qiang Yang, Bike Flow Prediction with Multi-Graph Convolutional Networks, 2018
+[1] [Di Chai, Leye Wang, Qiang Yang, Bike Flow Prediction with Multi-Graph Convolutional Networks, 2018](https://arxiv.org/abs/1807.10934)
 
